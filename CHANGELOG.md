@@ -5,6 +5,11 @@ project adheres to [Semantic Versioning](http://semver.org).
 
 ## Unreleased
 
+### Added
+
+  - KiCad project for breakout board.
+  - Board backup file to ignore list.
+
 ## 0.1.0 - 2017-09-06
 
 ### Added
