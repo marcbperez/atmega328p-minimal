@@ -49,7 +49,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Atmega328p Minimal"
-Date "2017-09-11"
+Date "2017-09-12"
 Rev "0.1.0"
 Comp "marcbperez, Widerware"
 Comment1 ""
