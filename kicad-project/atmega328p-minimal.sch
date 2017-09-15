@@ -28,29 +28,14 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
-LIBS:SeeedOPL-Transistor-2016
-LIBS:SeeedOPL-Switch-2016
-LIBS:SeeedOPL-Sensor-2016
-LIBS:SeeedOPL-Resistor-2016
-LIBS:SeeedOPL-Relay-2016
-LIBS:SeeedOPL-LED-2016
-LIBS:SeeedOPL-Inductor-2016
-LIBS:SeeedOPL-IC-2016
-LIBS:SeeedOPL-Fuse-2016
-LIBS:SeeedOPL-Display-2016
-LIBS:SeeedOPL-Diode-2016
-LIBS:SeeedOPL-Crystal Oscillator-2016
-LIBS:SeeedOPL-Connector-2016
-LIBS:SeeedOPL-Capacitor-2016
-LIBS:atmega328p-minimal-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Atmega328p Minimal"
-Date "2017-09-12"
-Rev "0.1.0"
+Date "2017-09-15"
+Rev "0.2.0"
 Comp "marcbperez, Widerware"
 Comment1 ""
 Comment2 ""
