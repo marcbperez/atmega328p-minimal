@@ -5,6 +5,14 @@ project adheres to [Semantic Versioning](http://semver.org).
 
 ## Unreleased
 
+## 0.2.1 - 2017-09-15
+
+### Fixed
+
+  - Missing sheet information and revision.
+  - PDF for schematics.
+  - PDF for board design.
+
 ## 0.2.0 - 2017-09-12
 
 ### Added
