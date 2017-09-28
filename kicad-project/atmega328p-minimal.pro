@@ -55,6 +55,11 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=SeeedOPL-Switch-2016
+LibName31=SeeedOPL-Resistor-2016
+LibName32=SeeedOPL-IC-2016
+LibName33=SeeedOPL-Crystal Oscillator-2016
+LibName34=SeeedOPL-Capacitor-2016
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
