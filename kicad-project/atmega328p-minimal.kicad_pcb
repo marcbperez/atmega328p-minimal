@@ -3,7 +3,7 @@
   (general
     (links 44)
     (no_connects 0)
-    (area 166.954999 90.119999 196.265001 142.925001)
+    (area 127.892198 74.879999 163.191802 128.605)
     (thickness 1.6)
     (drawings 38)
     (tracks 42)
@@ -15,8 +15,8 @@
   (page A4)
   (title_block
     (title "ATmega328P Minimal")
-    (date 2017-09-22)
-    (rev 0.2.1)
+    (date 2017-09-30)
+    (rev 0.3.0)
     (company "marcbperez, Widerware")
   )
 
@@ -544,7 +544,7 @@
   (gr_text marcbperez.github.com (at 133.35 76.835) (layer F.SilkS) (tstamp 5ABCDDAF)
     (effects (font (size 0.4 0.4) (thickness 0.05)) (justify left))
   )
-  (gr_text "ATmega328P Minimal\nRev 0.2.1" (at 159.385 76.835) (layer F.SilkS) (tstamp 5ABCDC40)
+  (gr_text "ATmega328P Minimal\nRev 0.3.0" (at 159.385 76.835) (layer F.SilkS) (tstamp 5ABCDC40)
     (effects (font (size 0.4 0.4) (thickness 0.05)) (justify right))
   )
   (gr_text +5V (at 155.575 122.555) (layer F.SilkS) (tstamp 5ABCD4C6)
