@@ -5,6 +5,20 @@ project adheres to [Semantic Versioning](http://semver.org).
 
 ## Unreleased
 
+## 0.3.0 - 2017-09-30
+
+### Added
+
+  - Datasheets for all components.
+  - Gerbers for the PCB.
+  - Seeed OPL component libraries.
+  - Project BOM.
+
+### Changed
+
+  - KiCad project, schematics and board design for this version.
+  - PDFs for schematics and board design.
+
 ## 0.2.1 - 2017-09-15
 
 ### Fixed
