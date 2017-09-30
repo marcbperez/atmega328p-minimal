@@ -5,6 +5,8 @@ project adheres to [Semantic Versioning](http://semver.org).
 
 ## Unreleased
 
+## 0.3.0 - 2017-09-30
+
 ### Added
 
   - Datasheets for all components.
